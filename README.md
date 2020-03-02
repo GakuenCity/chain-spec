@@ -12,3 +12,6 @@ This network based [Parity Aura](https://wiki.parity.io/Proof-of-Authority-Chain
 
 - 1004440004 or `0x3bde89c4` - Core, livenet
 - 1014440004 or `0x3c772044` - Test, testnet
+
+
+[中文说明](README_ZH.md)
